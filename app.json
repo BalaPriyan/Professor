@@ -18,19 +18,22 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "",
+            "value": "12635510",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
+            "value": "da59e4e56ec4fe35af603bd30208ecc5",
             "required": true
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "value": "-1001947006673",
             "required": false
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "value": "6170050781",
             "required": true
         },
         "SHORT_API": {
@@ -43,14 +46,17 @@
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
+            "value": "12635510",
             "required": false
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "value": "-1001659730523",
             "required": true                              
         },
         "AUTH_CHANNEL": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "value": "-1001919160219",
             "required": false
         },           
         "MAX_RIST_BTNS": {
@@ -60,11 +66,12 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @MR_LINK_Z ❱ • ────➤\n┣ ▫️ @MRxSERIES\n┣ ▫️ @MalluMovie_Official\n╰─────── • ◆ • ───────➤",
+            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @Fondness_Movies❱ • ────➤\n┣ ▫️ @Fondness_update\n╰─────── • ◆ • ───────➤",
             "required": false
         },
         "DATABASE_URI": {
             "description": "mongoDB URI.",
+            "value": "mongodb+srv://KING:KING@cluster0.uxw4hon.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
@@ -119,7 +126,7 @@
         },
         "AUTH_GROUPS": {
             "description": "Group Id. Only work a specific group/ your bot is public use? please just Skip this",
-            "value": "",
+            "value": "-1001751168659",
             "required": false
         },
         "WELCOM_PIC": {
