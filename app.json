@@ -46,7 +46,7 @@
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
-            "value": "12635510",
+            "value": "https://t.me/c/1835596743/2, https://t.me/c/1835596743/3, https://t.me/c/1835596743/4, https://t.me/c/1835596743/5, https://t.me/c/1835596743/6",
             "required": false
         },
         "LOG_CHANNEL": {
